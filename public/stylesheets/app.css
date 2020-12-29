@@ -1,0 +1,24 @@
+body{
+    font-weight: bold;
+}
+
+#codeq {
+    font-size: 2em;
+}
+
+#new {
+    margin-top: 7em;
+}
+
+.index{
+    margin-top: 55px;
+}
+
+#buttons{
+    display: flex;
+}
+
+#button1{
+    margin-top: 10px;
+    
+}
